@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.odin-title {
+    font-size: 40px;
+}
+
+h1,h2,h3,h4 {
+    text-align: center;
+   font-size: 25px;
+   margin: 0;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: 2px solid blueviolet;
+}
+
+a:hover {
+    background-color: blueviolet;
+}
